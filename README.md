@@ -1,2 +1,2 @@
 # SimpleHTTPServerJava
-testing out http servers in java
+testing out very basic http servers in java
